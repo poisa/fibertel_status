@@ -8,6 +8,12 @@ Clonar el repositorio:
 
 ```$git clone git@github.com:poisa/fibertel_status.git```
 
+Instalar las dependencias:
+
+```
+$npm install
+```
+
 Ejecutar:
 
 ```
