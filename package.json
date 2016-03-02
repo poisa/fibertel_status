@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cheerio": "^0.14.0",
+    "request": "^2.45.0"
+  },
+  "name": "fibertel_stats",
+  "version": "1.0.0",
+  "description": "Lee la pagina con el status del modem de Fibertel (Argentina), extrae los datos y los evalua. Muestra en la consola los resultados.",
+  "main": "fibertel_stats.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fibertel",
+    "modem",
+    "status"
+  ],
+  "author": { 
+    "name": "Julian Vidal",
+    "url": "http://julianvidal.com"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poisa/fibertel_status"
+  },
+  "bugs": {
+    "url": "https://github.com/poisa/fibertel_status/issues"
+  },
+  "license": "MIT"
+}
